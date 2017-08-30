@@ -1,0 +1,5 @@
+debug true
+name Web App
+port 5000
+contentRoot ~/../app
+webRoot ~/../app

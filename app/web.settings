@@ -1,5 +1,5 @@
 debug true
-name Web App
+name Bare Web App
 port 5000
-contentRoot ~/../app
-webRoot ~/../app
+contentRoot ~/../bare
+webRoot ~/../bare

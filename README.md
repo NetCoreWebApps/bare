@@ -1,6 +1,6 @@
 # Web App Starter
 
-.NET Core 2.0 Web Apps Starter project.
+.NET Core 2.1 Web Apps Starter project.
 
 The `/app` folder contains the Starter Web Apps project.
 

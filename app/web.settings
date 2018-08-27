@@ -1,5 +1,4 @@
 debug true
 name Bare Web App
-port 5000
 contentRoot ~/../app
 webRoot ~/../app

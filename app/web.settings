@@ -1,4 +1,4 @@
 debug true
-name Bare Web App
+name Bare WebApp
 contentRoot ~/../app
 webRoot ~/../app

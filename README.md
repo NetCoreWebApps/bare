@@ -1,13 +1,25 @@
-# Bare Web App
+# bare
 
-.NET Core 2.1 Bare Web App project.
+A basic Bootstrap + jQuery multi-page Content Website with dynamic Menu Navigation + dynamic API pages
 
-The `/app` folder contains the Starter Web Apps project.
+[![](https://raw.githubusercontent.com/NetCoreApps/TemplatePages/master/src/wwwroot/assets/img/screenshots/bare.png)](http://bare.web-app.io)
 
-The `/web` folder contains the [Web Apps binaries](https://github.com/NetCoreWebApps/Web).
+## Install
 
-See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack Web Apps.
+Run as a Desktop App (Windows only):
 
-[![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare-webapp.web-templates.io)
+    $ dotnet tool install -g app
 
-> Live Demo: http://bare-webapp.web-templates.io
+    $ app install bare
+    $ cd bare && app
+
+Run as a .NET Core Web App (Windows, macOS, Linux):
+
+    $ dotnet tool install -g web
+
+    $ web install bare
+    $ cd bare && web
+
+## Learn
+
+See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack .NET Core 2.1 Web Apps.

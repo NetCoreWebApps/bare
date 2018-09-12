@@ -8,6 +8,6 @@ The `/web` folder contains the [Web Apps binaries](https://github.com/NetCoreWeb
 
 See [templates.servicestack.net/docs/web-apps](http://templates.servicestack.net/docs/web-apps) to learn about ServiceStack Web Apps.
 
-[![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare.web-app.io)
+[![](http://templates.servicestack.net/assets/img/screenshots/bare.png)](http://bare-webapp.web-templates.io)
 
-> Live Demo: http://bare.web-app.io
+> Live Demo: http://bare-webapp.web-templates.io

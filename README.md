@@ -1,4 +1,10 @@
-# bare
+# This project has moved to
+
+### https://github.com/sharp-apps/bare
+
+---
+
+## bare
 
 A basic Bootstrap + jQuery multi-page Content Website with dynamic Menu Navigation + dynamic API pages
 
